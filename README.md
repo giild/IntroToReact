@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Introduction to ReactJS
+
+This is a quick tutorial showing how to make a simple React page with a simple menu. It's similar to other examples, but doesn't use Typescript.
+
+To run this, you will need to install NodeJS. To start the example run "npm start"
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
