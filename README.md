@@ -26,7 +26,16 @@ To run this, you will need to install NodeJS. To start the example run "npm star
 
 11. Go back to the browser and refresh
 
-## Getting Started with Create React App
+## Additional Reading and Learning
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Here are some useful links to videos about ReactJS
 
+Install React ES7 React/Redux plugin [https://www.youtube.com/watch?v=_DNmTBCUHXs&t=14s]
+
+React useState & useEffect [https://www.youtube.com/watch?v=iEVcCdbF1WQ]
+
+React Concepts [https://www.youtube.com/watch?v=m_477l0Er9w]
+
+React Hooks [https://www.youtube.com/watch?v=O6P86uwfdR0]
+
+React Tutorial [https://www.youtube.com/watch?v=Ke90Tje7VS0&t=2s]
