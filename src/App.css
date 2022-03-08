@@ -1,7 +1,5 @@
 .App {
-  width: 100vw;
-  height: 100vw;
-  margin: 0px;
+  text-align: center;
 }
 
 .App-logo {
@@ -15,11 +13,13 @@
   }
 }
 
-.App-Header {
-  background-color: white;
-  min-height: 10vh;
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
+  align-items: center;
+  justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
 }
@@ -35,57 +35,4 @@
   to {
     transform: rotate(360deg);
   }
-}
-
-.App-Menu {
-  color: white;
-  height: 90vh; /* this controls the height of the menu*/
-  width: 15rem; /* this controls the width of the menu */
-  background-color: #292929;
-  z-index: 200;
-
-  transform: translateX(-100%);
-  transition: 0.3s;
-
-  position: fixed;
-  left: 0;
-  top: 0;
-
-  display: flex;
-  justify-content: center; /* this controls alignment of the menu items */
-}
-
-.Menu-Open {
-  transform: translateX(0%);
-}
-
-.Menu-Btn {
-  font-size: 1.75rem;
-  cursor: pointer;
-  margin: 10px;
-  color: #000;
-}
-
-.Menu-Container {
-  display: grid;
-  grid-template-rows: auto;
-  align-content: flex-start;
-}
-
-.Menu-Item {
-  font-size: 12pt;
-  color: white;
-  margin-top: 5px;
-  margin-bottom: 5px;
-}
-
-.App-Header .Nav {
-  display: flex;
-  gap: 1rem;
-}
-
-.body {
-  margin: 10px;
-  width: 90vw;
-  height: 90vw;
 }
