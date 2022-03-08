@@ -1,8 +1,8 @@
 # Introduction to ReactJS
 
-This is a quick tutorial showing how to make a simple React page with a simple menu. It's similar to other examples, but doesn't use Typescript.
+This is a quick tutorial showing how to make a simple React page with a simple menu. 
 
-To run this, you will need to install NodeJS. To start the example run "npm start"
+## Getting Started
 
 1. Install NodeJS https://nodejs.org/en/download
 
@@ -39,3 +39,5 @@ React Concepts [https://www.youtube.com/watch?v=m_477l0Er9w]
 React Hooks [https://www.youtube.com/watch?v=O6P86uwfdR0]
 
 React Tutorial [https://www.youtube.com/watch?v=Ke90Tje7VS0&t=2s]
+
+## Common Problems
